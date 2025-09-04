@@ -23,15 +23,6 @@ Foundation for BI dashboards (expandable in tools like Power BI, Tableau, etc.).
 
 Modularity for future enhancements such as additional metrics, machine learning, or multi-source data integration.
 
-**Repository Structure**
-text
-SQL-Proj-2-Financial-Data/
-├── README.md         # This documentation file
-├── /sql/             # Contains all SQL scripts (DDL, DML, queries)
-├── /data/            # Sample datasets or data import guides
-├── /dashboard/       # BI dashboard files or screenshots (optional)
-└── LICENSE           # Project license information
-
 **Getting Started**
 Clone this repository to your machine.
 
